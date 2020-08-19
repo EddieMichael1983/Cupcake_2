@@ -1,0 +1,16 @@
+.Flashy {
+    color: red;
+    font-style: italic;
+  }
+.best {
+    font-style: oblique;
+  }
+.highlight {
+    color: green;
+    font-style: bold;
+}
+
+body {
+  background-image: url(../img/cupcakes-wallpaper-background.jpg)
+  }
+ 
